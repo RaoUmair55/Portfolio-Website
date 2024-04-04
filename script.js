@@ -15,6 +15,6 @@ const typed = new Typed('.multiple-text',{
     strings:['Student of ADCS at Air University ',' Full Stack Developer'],
     typeSpeed:100,
     backSpeed:100,
-    backDelay:1000,
+    backDelay:800,
     loop:true
 });
