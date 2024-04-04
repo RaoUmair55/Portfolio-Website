@@ -12,7 +12,7 @@ let navLinks=document.querySelectorAll('header nav a');
 
 
 const typed = new Typed('.multiple-text',{
-    strings:['ADCS Student at Air University ',' Full Stack Developer'],
+    strings:['Student of ADCS at Air University ',' Full Stack Developer'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
